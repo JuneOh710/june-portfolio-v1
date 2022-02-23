@@ -11,7 +11,16 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    overflow-y: hidden; /* Hide vertical scrollbar */
-    overflow-x: hidden; /* Hide horizontal scrollbar */
+    overflow-y: hidden; 
+    overflow-x: hidden; 
 }
 
+#text {
+    position: absolute;
+    top: 0px;
+    left: 100px;
+}
+
+#page2 {
+    position: relative;
+}
