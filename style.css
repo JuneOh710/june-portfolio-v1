@@ -18,9 +18,15 @@ body {
 #text {
     position: absolute;
     top: 0px;
-    left: 100px;
+    left: 0px;
 }
 
 #page2 {
     position: relative;
 }
+
+.btn {
+    color: black;
+    border-color: black;
+}
+
